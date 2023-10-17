@@ -19,3 +19,5 @@ Home
 informasi seputar website
 # Contact Us
 Informasi seputar sosial media website
+# Figma
+https://www.figma.com/file/WzZcU0OduiCXvqdZgQBQgl/Untitled?node-id=0%3A54&mode=dev
