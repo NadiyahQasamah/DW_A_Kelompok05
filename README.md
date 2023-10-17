@@ -3,7 +3,7 @@
 2. Nadhifa Fairuz Sugara - 4522210043
 3. Nadiyah Qasamah - 4522210046
 4. Siti Intan Nia - 4522210055 
-# Struk Website
+# Struktur Website
 Home
 1. Berisi halaman utama yang terdapat logo website
 2. Navigasi yang berisi : Home,Technology, Healthy, Bussiness
@@ -15,3 +15,7 @@ Home
 8. Section Bussiness berisi konten artikel informasi seputar bisnis
 9. Section Technology berisi konten artikel informasi seputar teknologi
 10.Section pemilu 2024 berisi konten artikel informasi seputar pemilu
+# About us 
+informasi seputar website
+# Contact Us
+Informasi seputar sosial media website
