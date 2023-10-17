@@ -1,5 +1,2 @@
-# Nama Kelompok 5
-1. Sulis Afryanti Lubis - 4522210024
-2. Nadhifa Fairuz Sugara - 4522210043
-3. Nadiyah Qasamah - 4522210046
-4. Siti Intan Nia - 4522210055 
+Tins.com - Kelompok 3
+Tins.com merupakan salah satu website yang di tuju untuk kalangan usia remaja hingga dewasa. Media massa yang berisi tentang perkembangan berita terkini dan terpopuler. Berikut informasi terkait website Tins.com 
