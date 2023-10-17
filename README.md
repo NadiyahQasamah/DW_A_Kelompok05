@@ -16,14 +16,14 @@ Home
 9. Section Technology berisi konten artikel informasi seputar teknologi
 10.Section pemilu 2024 berisi konten artikel informasi seputar pemilu
 # Desain Website Tins
-1. Logo 
-berfungsi sebagai identitas website 
-2. Navigasi Bar 
-membantu pengguna dalam mencari informasi yang di butuhkan pengguna
-3. Warna 
-berguna untuk kekuatan branding website, website tins memakai warna biru melambangkan kedaimaian
-4. Footer 
-Copyright © 2023 Tins.com
+1. Logo
+   berfungsi sebagai identitas website 
+3. Navigasi Bar
+   membantu pengguna dalam mencari informasi yang di butuhkan pengguna
+5. Warna
+   berguna untuk kekuatan branding website, website tins memakai warna biru melambangkan kedaimaian
+7. Footer
+   Copyright © 2023 Tins.com
 # About us 
 informasi seputar website
 # Contact Us
