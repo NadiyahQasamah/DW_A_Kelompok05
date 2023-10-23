@@ -2,7 +2,7 @@
 1. Sulis Afryanti Lubis - 4522210024
 2. Nadhifa Fairuz Sugara - 4522210043
 3. Nadiyah Qasamah - 4522210046
-4. Siti Intan Nia - 4522210055 
+4. Siti Intan Nia - 4522210054 
 # Struktur Website
 Home
 1. Berisi halaman utama yang terdapat logo website
